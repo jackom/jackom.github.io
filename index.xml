@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stay Hungry Stay Foolish</title>
+    <link>https://jackom.github.io/</link>
+    <description>Recent content on Stay Hungry Stay Foolish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2020 14:38:32 +0800</lastBuildDate><atom:link href="https://jackom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jackom.github.io/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://jackom.github.io/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://jackom.github.io/post/my-first-blog/</link>
+      <pubDate>Thu, 08 Oct 2020 14:38:32 +0800</pubDate>
+      
+      <guid>https://jackom.github.io/post/my-first-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

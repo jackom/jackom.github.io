@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jackom.github.io/sitemap.xml
